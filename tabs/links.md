@@ -30,6 +30,6 @@ page_data:
 
     - type: id_clients
       title: "همکار 2"
-      url: "https://atrakdrip.ir/"
+      url: "https://iranshahr.no"
       info: "متن اطلاعات"
 ---
